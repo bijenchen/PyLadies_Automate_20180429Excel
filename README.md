@@ -14,7 +14,7 @@ This slide is basic on [Olly's documents](https://github.com/iamshihshan/PyOlly_
 
 You can also find the slides of this series below.
 
-+ [**Day 1:Work with Excel files in Python**](Undo URL)
++ [**Day 1:Work with Excel files in Python**](https://bijenchen.github.io/PyLadies_Automate_20180429Excel/Day1_Python_Deal_Excel.slides.html#/)
 + [**Day 2:Work with CSV files & JSON in Python**](Undo URL)
 + [**Day 3:Task Schedule**](Undo URL)
 + [**Day 4:Python Sending Email**](Undo URL)
