@@ -8,7 +8,7 @@ We use the book "Automate the Boring Stuff with Python" by Al Sweigart as our ma
 
 ## Original Author
 
-This slide is basic on Olly's documents,you can find other tutorials at [Olly's github](https://github.com/iamshihshan/PyOllyTutorial).
+This slide is basic on [Olly's documents](https://github.com/iamshihshan/PyOlly_AutomateTutorial),you can find other tutorials at [Olly's github](https://github.com/iamshihshan/PyOllyTutorial).
 
 ## Slides
 
@@ -18,7 +18,7 @@ You can also find the slides of this series below.
 + [**Day 2:Work with CSV files & JSON in Python**](Undo URL)
 + [**Day 3:Task Schedule**](Undo URL)
 + [**Day 4:Python Sending Email**](Undo URL)
-+ [**Day 5:Mouse and Keyboard Controlling**](Undo URL)
++ [**Day 5:Control Mouse & Keyboard**](Undo URL)
 
 ## About PyLadies Taiwan
 
